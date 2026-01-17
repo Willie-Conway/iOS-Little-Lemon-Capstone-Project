@@ -1,8 +1,8 @@
 # 🍋 Little Lemon Food Ordering App - iOS Development Capstone Project
 
 <p float="left">
-    <img src="https://user-images.githubusercontent.com/93353925/227747468-3e923704-873f-4a06-8bbb-8fad77580034.gif" width="300" />
-    <img src="https://github.com/Willie-Conway/Little-Lemon-Food-Ordering-App/blob/main/Assets/Little%20Lemon%20App%20Assets/Logo.png" width="300" />
+    <img src="https://images.credly.com/size/680x680/images/cc2a62dd-ab98-4ae6-a6a7-48de96672ff8/image.png" width="300" />
+    <img src="https://github.com/Willie-Conway/iOS-Little-Lemon-Capstone-Project/blob/161d2f71924bb584794076bd89cc7a0b5da49943/little-lemon-app/Little%20Lemon%20App%20Assets/Little%20Lemon.jpg" width="300" />
 </p>
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -13,10 +13,12 @@
 
 ## 🎯 Project Overview
 <p float="left">
-    <img src="https://github.com/Willie-Conway/Little-Lemon-Food-Ordering-App/blob/main/Screenshots/Onboarding.png" width="200" />
-    <img src="https://github.com/Willie-Conway/Little-Lemon-Food-Ordering-App/blob/main/Screenshots/Home.png" width="200" />
-    <img src="https://github.com/Willie-Conway/Little-Lemon-Food-Ordering-App/blob/main/Screenshots/Profile.png" width="200" />
-    <img src="https://github.com/Willie-Conway/Little-Lemon-Food-Ordering-App/blob/main/Screenshots/Menu%20Detail.png" width="200" />
+    <img src="https://github.com/Willie-Conway/iOS-Little-Lemon-Capstone-Project/blob/161d2f71924bb584794076bd89cc7a0b5da49943/little-lemon-app/Little%20Lemon%20App%20Assets/Bruschetta.png" width="200" />
+    <img src="https://github.com/Willie-Conway/iOS-Little-Lemon-Capstone-Project/blob/161d2f71924bb584794076bd89cc7a0b5da49943/little-lemon-app/Little%20Lemon%20App%20Assets/Greek%20salad.png" width="200" />
+    <img src="https://github.com/Willie-Conway/iOS-Little-Lemon-Capstone-Project/blob/161d2f71924bb584794076bd89cc7a0b5da49943/little-lemon-app/Little%20Lemon%20App%20Assets/Hero%20image.png" width="200" />
+    <img src="https://github.com/Willie-Conway/iOS-Little-Lemon-Capstone-Project/blob/161d2f71924bb584794076bd89cc7a0b5da49943/little-lemon-app/Little%20Lemon%20App%20Assets/Permissible%20colors.png"     width="200"/>
+    <img src="https://github.com/Willie-Conway/iOS-Little-Lemon-Capstone-Project/blob/161d2f71924bb584794076bd89cc7a0b5da49943/little-lemon-app/Little%20Lemon%20App%20Assets/Wireframe.png" width="200" />
+    <img src="https://github.com/Willie-Conway/iOS-Little-Lemon-Capstone-Project/blob/111de8f00e7dea9fa0846777d05ef73f2d3b5189/little-lemon-app/Little%20Lemon%20App%20Assets/Little-Lemon-App.gif" width="200" />
 </p>
 
 This iOS SwiftUI application represents the **final capstone project** for the Meta iOS Developer Professional Certificate program. The Little Lemon Food Ordering App provides a modern, intuitive dining experience for users to explore menu items and place orders seamlessly.
@@ -24,6 +26,9 @@ This iOS SwiftUI application represents the **final capstone project** for the M
 ## 📱 Live App Demo
 
 [![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://user-images.githubusercontent.com/93353925/227747468-3e923704-873f-4a06-8bbb-8fad77580034.gif) ![App Store Ready](https://img.shields.io/badge/App_Store_Ready-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+
+
+
 
 ## 📁 Project Structure
 
